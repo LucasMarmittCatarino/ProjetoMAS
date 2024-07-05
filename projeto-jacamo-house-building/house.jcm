@@ -1,0 +1,17 @@
+mas house_building {
+
+   agent giacomo
+
+   agent org_A
+   agent org_B
+   agent org_C {
+      instances: 5
+   }
+   agent org_D {
+      instances: 13
+   }
+   agent org_E
+   agent org_F {
+      instances: 2
+   }
+}
